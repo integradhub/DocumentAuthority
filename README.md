@@ -59,3 +59,6 @@ An automatic document classification platform that automatically catalogue unstr
 
 <img src="images/da-solr.png">
 
+**Note**:
+- The Backend is made by Java
+- The Frontend is made by AngularJS
