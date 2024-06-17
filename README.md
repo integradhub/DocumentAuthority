@@ -12,11 +12,13 @@ An automatic document classification platform that automatically catalogue unstr
 - AngularJS Modules
 - Settings Module
 
-## DashboardModule
+## Dashboard Module
 
 - System Dashboard
 - IT Dashboard
 - Dashboard List
+
+<img src="images/dboard.png">
 
 ## Scan Module
 
@@ -24,22 +26,25 @@ An automatic document classification platform that automatically catalogue unstr
 - Schedule groups
 - Scan history
 
+<img src="images/scan.png">
+
 ## Discover Module
 
 - File groups
 - Discover UI of Root Folder
+
+<img src="images/discover_ui.png">
 
 ## AngularJS Modules
 
 - Root folders
 - System components
 
+<img src="images/system-monitor.png">
+
 ## Settings Module
 
 - Media connections
 - Ldap connections
 
-  
-
-
-- 
+<img src="images/settings-tags.png">
