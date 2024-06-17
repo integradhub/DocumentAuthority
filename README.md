@@ -4,7 +4,7 @@ An automatic document classification platform that automatically catalogue unstr
 
 ![howto2](https://github.com/integradhub/DocumentAuthority/assets/173034413/4a433933-40f2-49cc-92ed-37dbb26e7df6)
 
- # Architecture Overview
+# Architecture Overview
 
 - Dashboard Module
 - Scan Module
@@ -48,3 +48,14 @@ An automatic document classification platform that automatically catalogue unstr
 - Ldap connections
 
 <img src="images/settings-tags.png">
+
+# Backend
+
+## Map (Scanning) phase
+
+<img src="images/da-backend.png">
+
+## Solr Repositories
+
+<img src="images/da-solr.png">
+
